@@ -5,8 +5,10 @@
 >>- Cara menginstal php dalam bahasa inggris : https://youtu.be/MPRLUd8Pmyo?si=FqN54nVr4duH4Keg
 ---
 > - Laravel versi 9.1.5
->> - ```
->>   Composer Create-project laravel\laravel=9.1.5 nama-projectnya
+> - cara membuat laravel yang versi yang sama 
+```
+   Composer Create-project laravel\laravel=9.1.5 nama-projectnya
+```
 ---
 <b>run/mejalankan</b>
 ---
