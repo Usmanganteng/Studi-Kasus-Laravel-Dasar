@@ -1,3 +1,24 @@
+<b>requirement/persyaratan</b>
+---
+> - Php versi 8
+>> - Cara menginstal php dalam bahasa indonesia : https://youtu.be/Uw3ZGIMvIdA?si=mBVZ-lBnoCilASzo
+>>- Cara menginstal php dalam bahasa inggris : https://youtu.be/MPRLUd8Pmyo?si=FqN54nVr4duH4Keg
+---
+> - Laravel versi 9.1.5
+>> - ```
+>>   Composer Create-project laravel\laravel=9.1.5 nama-projectnya
+---
+<b>run/mejalankan</b>
+---
+> - Buat folder
+> - git clone
+>> - ```
+>>   git clone
+---
+> - cara run
+>> - ```
+>>   php artisan serve
+---
 <b>POINT UTAMA</b>
 ---
 > #### UNTUK APA
