@@ -15,9 +15,13 @@
 > - Buat folder
 > - git clone
 >> - ```
->>   git clone
+>>   git clone git@github.com:Usmanganteng/Studi-Kasus-Laravel-Dasar.git
 ---
 > - cara run
+>> - ```
+>>   npm install
+>> - ```
+>>   npm update
 >> - ```
 >>   php artisan serve
 ---
